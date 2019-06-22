@@ -1,4 +1,11 @@
 # SHD-React
+## Used
+- Typescript
+- React
+- Redux
+- Axios
+- Postcss
+- Tailwind
 ## Quick Overview
 ```js
 yarn install //install package
