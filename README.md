@@ -6,6 +6,7 @@
 - Axios
 - Postcss
 - Tailwind
+- Styled-jsx
 ## Quick Overview
 ```js
 yarn install //install package
